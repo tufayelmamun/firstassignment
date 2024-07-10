@@ -89,3 +89,14 @@ align-items: center;
     background-color: lightyellow;
     padding: 20px 30px;
 }
+
+/* <!-- ------------------Support section------------------ --> */
+.support-section{
+    padding: 20px 30px;
+    background-image: url("../images/handshake.jpg");
+    padding-bottom: 20px;
+}
+.form{
+   display: flex;
+   justify-content: center;
+}
