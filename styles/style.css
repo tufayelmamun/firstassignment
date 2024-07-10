@@ -100,3 +100,10 @@ align-items: center;
    display: flex;
    justify-content: center;
 }
+
+/* <!-- ------------------Footer------------------ --> */
+.footer-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
