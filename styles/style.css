@@ -1,3 +1,12 @@
+/* Shared CSS */
+.title{
+    margin-top: 50px;
+    text-align: center;
+}
+.sub-title{
+    text-align: center;
+    margin-bottom: 30px;
+}
 /* Nav bar */
 header{
     
@@ -13,7 +22,12 @@ header{
     
 }
 
-.banner h1, p{
+.banner-title{
+    
+    text-align: center;
+    
+}
+.banner-description{
     
     text-align: center;
     
@@ -35,4 +49,20 @@ header{
     padding: 10px;
     cursor: pointer;
     
+}
+
+/*----------------------- Why web Development-------------------------- */
+.container{
+    width: 60%;
+    margin: 0 auto;
+
+}
+.each-section{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+    margin:20px 4%;
+}
+.each-section-detail{
+    width: 250px;
 }
