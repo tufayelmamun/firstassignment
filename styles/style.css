@@ -54,7 +54,7 @@ header{
 /*----------------------- Why web Development-------------------------- */
 .container{
     width: 60%;
-    margin: 0 auto;
+    margin: 30px auto;
 
 }
 .each-section{
@@ -65,4 +65,9 @@ align-items: center;
 }
 .each-section-detail{
     width: 250px;
+}
+/*----------------------My Inspiration------------------ */
+.youtube{
+    display: flex;
+    justify-content: center;
 }
