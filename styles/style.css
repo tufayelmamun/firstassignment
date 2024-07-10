@@ -1,0 +1,38 @@
+/* Nav bar */
+header{
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 30px;
+}
+.banner{
+    background-image: url("../images/Hero-bg.png");
+    padding-bottom: 20px;
+    
+}
+
+.banner h1, p{
+    
+    text-align: center;
+    
+}
+.banner-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.banner-btn{
+    background-color: black;
+    color: aliceblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    
+}
