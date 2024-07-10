@@ -71,3 +71,21 @@ align-items: center;
     display: flex;
     justify-content: center;
 }
+
+/* -----------My current Target------------------------ */
+.target-skill{
+    display: flex;
+    justify-content: space-between;
+}
+.target-first{
+    background-color: lightcoral;
+    padding: 20px 30px;
+}
+.target-second{
+    background-color: lightblue;
+    padding: 20px 30px;
+}
+.target-third{
+    background-color: lightyellow;
+    padding: 20px 30px;
+}
